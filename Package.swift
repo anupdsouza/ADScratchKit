@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ADScratchKit",
-            url: "https://github.com/anupdsouza/ADScratchKit/releases/download/0.0.1/ADScratchKit.xcframework.zip",
-            checksum: "d914d82eab734c15978d9c4f40dedda2a86204718a382ead752cc06323a4cf40"
+            url: "https://github.com/anupdsouza/ADScratchKit/releases/download/0.0.2/ADScratchKit.xcframework.zip",
+            checksum: "1d2af34664dffa8d4c3e9f9d8be0c9f4debf46a59ce062e2a42a29afd9544c30"
         )
     ]
 )
