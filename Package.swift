@@ -1,4 +1,4 @@
-// swift-tools-version: 5.7
+// swift-tools-version: 5.9
 import PackageDescription
 
 let package = Package(
@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ADScratchKit",
-            url: "https://placeholder-url.com/ADScratchKit.xcframework.zip",
-            checksum: "0000000000000000000000000000000000000000000000000000000000000000"
+            url: "https://github.com/anupdsouza/ADScratchKit/releases/download/0.0.2/ADScratchKit.xcframework.zip",
+            checksum: "1d2af34664dffa8d4c3e9f9d8be0c9f4debf46a59ce062e2a42a29afd9544c30"
         )
     ]
 )
